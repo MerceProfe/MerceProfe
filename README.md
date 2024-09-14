@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hola! 👋
+👩‍💻 Soc professora d'informàtica a l'IES Llucmajor. 
+
+☺️ M'apassiona ensenyar com la informàtica es pot utilitzar per resoldre problemes del món real.
+
+🎯 A Programació i Tractament de dades I i II els alumnes aprenen a treballar amb control de versions, programació i maneig de les dades.
+
+:octocat: Usam GitHub per gestionar els nostres projectes, treballar de forma col·laborativa i compartir el codi de forma organitzada i eficient.
+
 
 <!--
 **MerceProfe/MerceProfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
