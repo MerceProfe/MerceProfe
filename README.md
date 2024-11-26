@@ -1,5 +1,5 @@
 ## Hola! 👋
-👩‍💻 Soc professora d'informàtica a l'IES Llucmajor. 
+👩‍💻 Soc na Mercè, professora d'informàtica a l'IES Llucmajor. 
 
 ☺️ M'apassiona ensenyar com la informàtica es pot utilitzar per resoldre problemes del món real.
 
